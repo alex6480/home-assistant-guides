@@ -1,5 +1,7 @@
 # Periodic Reminders
 
+[Back to the list of all guides](../../)
+
 ## Overview
 
 **Difficulty:** easy
