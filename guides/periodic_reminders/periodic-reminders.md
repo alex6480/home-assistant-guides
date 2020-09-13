@@ -1,6 +1,6 @@
 # Periodic Reminders
 
-[Back to the list of all guides](../../)
+[Back to the list of all guides](../../readme.md)
 
 ## Overview
 
